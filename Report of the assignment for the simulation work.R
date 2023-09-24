@@ -1,4 +1,4 @@
-# Victor Malheiro 201406480
+# Victor Malheiro
 
 ##### 1st Part of the Assignment
 
